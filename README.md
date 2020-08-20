@@ -103,7 +103,11 @@ table:
 ```
 
 [link text](https://github.com/lsatc "tilte")
+
 ```[link text](https://github.com/lsatc "tilte")```
 
+
 ![alternatie](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "title")
+
 ```![alternatie](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "title")```
+
