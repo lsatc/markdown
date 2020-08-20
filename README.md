@@ -41,10 +41,10 @@ __bold__
 or
 _italic_
 ```
-~~strke draw~~
+~~strike draw~~
 
 ```
-~~strke draw~~
+~~strike draw~~
 ```
 * unordered list row 1
     * sub menu 1
