@@ -24,8 +24,9 @@ COMMENT
 -->
 <this comments only a line>
 ```
+at least 3 underlines makes a line as below
+```___```
 ___
-at least 3 underlines makes a line
 <!-- you also can write html here -->
 **bold**
 ```
