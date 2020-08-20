@@ -80,14 +80,12 @@ _italic_
 >>nested blockqoute
 ```
 ```
-```
-this is code
+```this is code
 
-line 2 in code
+line 2 in code```
 ```
 ```
-```
-`this is also ffor coding`
+`this is also for coding`
 ```
 table:
 
